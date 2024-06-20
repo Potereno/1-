@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+h1{
+    padding: 10px;
+    margin: 0;
+}    
+
+header{
+    height: 150px ; /* кук*/
+    background-color: rgb(255, 255, 255); /* kzxkz*/
+    color: rgb(83, 25, 25); /* z*/
+    text-align: center; /*ghj*/
+    font-size: 10px;
+
+    background-image: url(https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/necessary-evil-super-villains-of-dc-comics.jpg)
+
+    
+}
+
+main{
+    height: 3000px ; /* кук*/
+    background-color: rgb(15, 19, 19); /* kzxkz*/
+    color: brown; /* z*/
+    text-align: center; /*ghj*/
+    font-size: 15px;
+     
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
+
+.left{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+}
+
+footer{
+    height: 200px ; /* кук*/
+    background-color: rgb(58, 95, 95); /* kzxkz*/
+    color: brown; /* z*/
+    text-align: center; /*ghj*/
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+.social{
+    width: 100px;
+   padding-left: 10px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
